@@ -16,7 +16,6 @@ Include all files for Bootstrap, Jquery, Popper.js
 
 ```html
 <!doctype html>
-<!doctype html>
 <html lang="en">
   <head>
     <!-- Required meta tags -->
